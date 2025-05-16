@@ -47,3 +47,5 @@ To explore the dashboard:
 Piyush Kumar
 (https://github.com/piyush09-09)
 
+Screenshots/Demos
+Key Insights : https://github.com/piyush09-09/Sales-Analysis-and-Insights-Dashboard/blob/main/Key%20Insights.png
