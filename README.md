@@ -49,3 +49,4 @@ Piyush Kumar
 
 Screenshots/Demos
 Key Insights : https://github.com/piyush09-09/Sales-Analysis-and-Insights-Dashboard/blob/main/Key%20Insights.png
+Profit Analysis: https://github.com/piyush09-09/Sales-Analysis-and-Insights-Dashboard/blob/main/Profit%20Analysis.png
